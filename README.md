@@ -1,2 +1,4 @@
 
-# Creating a new branch is quick AND simple.
+# 这是Readme
+
+这是一个练习Git命令的仓库
